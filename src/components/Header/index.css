@@ -1,0 +1,53 @@
+.header-card {
+    height: 8vh;
+    background-color: #54787e; 
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-between; 
+    margin-bottom: 30px;
+    
+} 
+
+.bb {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+.main-head {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 35px;
+    align-self: center;
+} 
+
+.inner-card {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 0px;
+} 
+
+.bg-card {
+    display: flex;
+    flex-direction: row;
+} 
+
+.small-head {
+    color: white;
+    margin-right: 25px; 
+    margin-left: 5px;
+}
+
+.small-para {
+    color: white;
+    margin-top: 0;
+} 
+
+.out-bg {
+    display: flex;
+    flex-direction: column;
+    margin-right: 10px;
+}
+
